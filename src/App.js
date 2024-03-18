@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-// Define your book data in a single array
+
 const booksData = [
   {
     title: "The Psychology of money",
